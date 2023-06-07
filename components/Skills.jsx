@@ -28,7 +28,7 @@ const Skills = () => {
 
           <div className='w-[95%] h-20 border-t-2 border-yellow-500 m-auto md:max-w-[30%] md:h-0 md:mt-0 mb-0'></div>
 
-          <div className="flex flex-col align-items lg:flex-row justify-center gap-8 mt-[-7%] m-5 md:m-44 md:mt-24">
+          <div className="font-work flex flex-col align-items lg:flex-row justify-center gap-8 mt-[-7%] m-5 md:m-44 md:mt-24">
               <div className="border-2 border-yellow-500 rounded-lg p-4 flex-1 text-center lg:w-[50%]">
                   <GiPaintBrush size={50} className='m-auto mt-5 mb-5' />
                   <h2 className="text-3xl font-bold mb-4 text-yellow-500 tracking-wider">Graphic Design</h2>
