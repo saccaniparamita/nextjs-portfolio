@@ -39,7 +39,7 @@ const Skills = () => {
                   </div>
               </div>
 
-              <div className="border-2 border-yellow-500 rounded-lg p-4 flex-1 m-auto text-center lg:w-[50%]">
+              <div className="font-work border-2 border-yellow-500 rounded-lg p-4 flex-1 m-auto text-center lg:w-[50%]">
                   <RiCodeSSlashLine size={50} className='m-auto mt-5 mb-5'/>
                   <h2 className="text-3xl font-bold mb-4 text-yellow-500 tracking-wider">Programming</h2>
                   <p className="text-lg">I have 1 year of experience in HTML/CSS and some experiences in NextJS/Tailwind CSS.</p>
